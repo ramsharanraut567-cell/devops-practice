@@ -3,3 +3,4 @@ Day 1: also learned about > vs >>
 Learned: navigation, file create/copy/move/delete, > vs >> for overwrite/append
 Day 2: learned git init, add, commit, log
 Day 3: learned branches - seperate lines of work
+Day 4: learned pull requests
